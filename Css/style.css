@@ -1,0 +1,78 @@
+body {
+    font-family: "Expletus Sans", serif;
+    font-style: normal;
+    background-image: url(../Css/Synthwave_001.webp);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: center;
+    background-attachment: fixed;
+
+  }
+
+
+
+h1 {
+    font-size: 75px;
+    font-weight: 900;
+    color: (#ff0697, #8901f8);
+    text-align: center;
+    
+}
+
+.GradientBox {
+    background: linear-gradient(45deg, #ff0697, #8901f8);
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    margin: 20px;
+}
+
+.Box01 {
+    background-color: #ff06974b;
+    width: 50%;
+    height: fit-content;
+    padding: 10px;
+    border-radius: 10px;
+    color: rgb(71, 12, 54);
+    margin: 20px;
+}
+
+.Box02 {
+    
+    width: 50%;
+    height: fit-content;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    color: #000000;
+
+}
+
+.italicText {
+    font-style: italic;
+}
+
+.uppercaseText {
+    text-transform: uppercase;
+}
+
+.description {
+    font-size: 1.4rem;
+    font-weight: 400;
+    color: #000000;
+    text-align: justify;
+}
+
+.footer-logo {
+    width: 100%;
+    height: auto;   
+    position: CENTER;
+    position: bottom;
+    margin-bottom: 0px;
+
+}
